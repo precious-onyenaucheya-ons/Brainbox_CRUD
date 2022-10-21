@@ -1,0 +1,17 @@
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\bin\Debug\net6.0\Brainbox.Infrastructure.deps.json
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\bin\Debug\net6.0\Brainbox.Infrastructure.runtimeconfig.json
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\bin\Debug\net6.0\Brainbox.Infrastructure.dll
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\bin\Debug\net6.0\Brainbox.Infrastructure.pdb
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\bin\Debug\net6.0\Brainbox.Domain.dll
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\bin\Debug\net6.0\Brainbox.Domain.pdb
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\obj\Debug\net6.0\Brainbox.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\obj\Debug\net6.0\Brainbox.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\obj\Debug\net6.0\Brainbox.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\obj\Debug\net6.0\Brainbox.Infrastructure.AssemblyInfo.cs
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\obj\Debug\net6.0\Brainbox.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\obj\Debug\net6.0\Brainbox.Infrastructure.csproj.CopyComplete
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\obj\Debug\net6.0\Brainbox.Infrastructure.dll
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\obj\Debug\net6.0\refint\Brainbox.Infrastructure.dll
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\obj\Debug\net6.0\Brainbox.Infrastructure.pdb
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\obj\Debug\net6.0\Brainbox.Infrastructure.genruntimeconfig.cache
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox.Infrastructure\obj\Debug\net6.0\ref\Brainbox.Infrastructure.dll
