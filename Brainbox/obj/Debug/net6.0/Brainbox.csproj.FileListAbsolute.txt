@@ -73,3 +73,4 @@ C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox\obj\Debug\net6.0\Brainbox
 C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox\obj\Debug\net6.0\ref\Brainbox.dll
 C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hp\Desktop\DECAGON STACK_C#\Brainbox\Brainbox\bin\Debug\net6.0\swagger.json

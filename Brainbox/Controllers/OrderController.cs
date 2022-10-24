@@ -23,7 +23,7 @@ namespace Brainbox.Controllers
             _mapper = mapper;
         }
 
-        [Route("api/[controller]/[action]")]
+        [Route("[action]")]
         [HttpPost]
         public async Task<IActionResult> CompleteOrder()
         {
@@ -34,7 +34,7 @@ namespace Brainbox.Controllers
             return Ok();
         }
 
-        [Route("api/[controller]/[action]")]
+        [Route("[action]")]
         [HttpPost]
         public async Task<IActionResult> AddToCart(int id)
         {
@@ -48,7 +48,7 @@ namespace Brainbox.Controllers
             return NoContent();
         }
 
-        [Route("api/[controller]/[action]")]
+        [Route("[action]")]
         [HttpDelete]
         public async Task<IActionResult> RemoveFromCart(int id)
         {
@@ -62,7 +62,7 @@ namespace Brainbox.Controllers
 
         }
 
-        [Route("api/[controller]/[action]")]
+        [Route("[action]")]
         [HttpGet]
         public IActionResult GetCartItems()
         {
@@ -70,7 +70,7 @@ namespace Brainbox.Controllers
             return Ok(response);
         }
 
-        [Route("api/[controller]/[action]")]
+        [Route("[action]")]
         [HttpGet]
         public IActionResult GetCartTotal()
         {
